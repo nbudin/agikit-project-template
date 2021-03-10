@@ -1,0 +1,13 @@
+{
+  "maxAnimatedObjects": 16,
+  "objects": [
+    {
+      "name": "?",
+      "startingRoomNumber": 0
+    },
+    {
+      "name": "test object",
+      "startingRoomNumber": 0
+    }
+  ]
+}
